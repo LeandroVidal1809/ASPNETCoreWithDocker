@@ -1,0 +1,11 @@
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\bin\Debug\netcoreapp2.0\ExampleDocker.deps.json
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\bin\Debug\netcoreapp2.0\ExampleDocker.runtimeconfig.json
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\bin\Debug\netcoreapp2.0\ExampleDocker.runtimeconfig.dev.json
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\bin\Debug\netcoreapp2.0\ExampleDocker.dll
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\bin\Debug\netcoreapp2.0\ExampleDocker.pdb
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\obj\Debug\netcoreapp2.0\ExampleDocker.csprojAssemblyReference.cache
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\obj\Debug\netcoreapp2.0\ExampleDocker.csproj.CoreCompileInputs.cache
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\obj\Debug\netcoreapp2.0\ExampleDocker.AssemblyInfoInputs.cache
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\obj\Debug\netcoreapp2.0\ExampleDocker.AssemblyInfo.cs
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\obj\Debug\netcoreapp2.0\ExampleDocker.dll
+C:\Users\Dalvi\source\repos\ExampleDocker\ExampleDocker\obj\Debug\netcoreapp2.0\ExampleDocker.pdb
